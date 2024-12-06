@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "687874848909",
+    "firebase_url": "https://polar-shuttle-default-rtdb.firebaseio.com",
+    "project_id": "polar-shuttle",
+    "storage_bucket": "polar-shuttle.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687874848909:android:5e0530b6d9ec16d22c4ac4",
+        "android_client_info": {
+          "package_name": "com.MK.PolarShuttle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDZcREGHKELlMkXUK4LAt2cgxOpGubGEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687874848909:android:15a33e69f1845b672c4ac4",
+        "android_client_info": {
+          "package_name": "com.example.polarshuttle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDZcREGHKELlMkXUK4LAt2cgxOpGubGEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
